@@ -1,0 +1,5 @@
+Es diferente a la IP P[ublica y privada de nuestra m[aquina host?
+Direccion Privada:inet addr:127.0.0.1
+DIreccion Publica:inet addr:10.0.2.15 
+Direccion MAC:HWaddr 08:00:27:d8:6a:8f
+Las direcciones IP son distintas, las privadas son utilizadas dentro de una red local para identificar y comunicarse con dispositivos internos, mientras que lapublicas son para permitir la comunicaci[on en internet y la identificacion de esos dispositivos a nivel mundial.
